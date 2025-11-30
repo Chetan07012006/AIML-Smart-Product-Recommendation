@@ -1,22 +1,30 @@
-# AIML Smart Product Recommendation System
+# Smart Product Recommendation System (Python)
 
-This project implements a smart product recommendation system using AIML and basic machine learning concepts.
+This project simulates a product recommendation environment by generating user, product, and interaction datasets dynamically using Python.
 
 ## Description
-The system suggests products based on user input and pattern matching logic implemented using AIML. It can be extended with ML-based recommendation techniques.
+The system creates synthetic datasets for users, products, and interactions to simulate real-world recommendation system input data. It provides a simple UI using Streamlit to control the size of the dataset and date range.
 
 ## Features
-- User interaction via AIML chatbot
-- Product suggestion based on rules
-- Easy to extend with ML models
+- User dataset generation
+- Product dataset generation
+- Interaction dataset simulation
+- CSV file export
+- Interactive Streamlit interface
 
 ## Tools & Technologies
-- AIML
-- Python (if used)
-- Machine Learning (basic concepts)
+- Python
+- Streamlit
+- Pandas
 
-## Usage
-Run the AIML engine and input queries to receive product recommendations.
+## How to Run
+1. Install dependencies:
+2. Run the app:
+
+## Output Files
+- users.csv
+- products.csv
+- interactions.csv
 
 ## Author
 Chetan Peddigari
